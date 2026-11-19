@@ -1,6 +1,4 @@
-[![Instagram Logo](instagram-logo.png)](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)
-https://img.icons8.com/?size=100&id=32292&format=png&color=000000
-# Instagram Follower Automation Bot
+# 📸 Instagram Follower Automation Bot
 
 A Python Selenium automation project that logs into an Instagram-like practice website, visits a target account's followers list, loads additional followers by scrolling, and automatically follows accounts.
 
