@@ -1,4 +1,4 @@
-![Instagram Logo](instagram-logo.png)
+[![Instagram Logo](instagram-logo.png)](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)
 
 # Instagram Follower Automation Bot
 
