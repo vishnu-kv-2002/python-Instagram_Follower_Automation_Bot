@@ -1,4 +1,6 @@
-# 📸 Instagram Follower Automation Bot
+![Instagram Logo](instagram-logo.png)
+
+# Instagram Follower Automation Bot
 
 A Python Selenium automation project that logs into an Instagram-like practice website, visits a target account's followers list, loads additional followers by scrolling, and automatically follows accounts.
 
